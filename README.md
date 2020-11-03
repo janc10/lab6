@@ -11,7 +11,7 @@ public class Hello {
 
         System.out.println("Hello. What is your name? ");
         namePerson = scnr.next();
-        System.out.print("It's nice to meet you, " + namePerson + ".");
+        System.out.print("It's nice so very nice to meet you, " + namePerson + ". Especially after such a long, and dreary day.");
 
 
         System.out.print(" How old are you? ");
